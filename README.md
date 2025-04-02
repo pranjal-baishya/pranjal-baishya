@@ -5,7 +5,7 @@
 
 <!-- Animated typing effect with tech theme -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+YOUR_NAME;Full-Stack+Developer;Cloud+Architecture+Enthusiast;Always+Learning+New+Tech&center=true&size=30&color=58A6FF&background=00000000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!;I'm+Pranjal;Full-Stack+Developer;Passionate+About+Tech&center=true&size=30&color=58A6FF&background=00000000">
 </h1>
 
 <!-- Enhanced profile views counter with uptime status -->
@@ -16,26 +16,23 @@
 
 <!-- Expanded social links with dev-themed icons -->
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://x.com/PranjalB318" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/pranjal-baishya-46a411174/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://dev.to/YOUR_DEV" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white">
   </a>
-  <a href="https://stackoverflow.com/users/YOUR_STACKOVERFLOW_ID" target="_blank">
+  <a href="https://stackoverflow.com/users/18322971/pranjal-baishya" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
-  <a href="https://codepen.io/YOUR_CODEPEN" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=CodePen&logoColor=white">
   </a>
 </p>
 
 <!-- Futuristic terminal section with glass morphism look -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE1ZTcxYTRlNDI3ZWE2ZmIxM2E1YTBiYTJjZjY5MDVlYWY5Njg5ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NKEt9elQ5cR68/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGE1ZTcxYTRlNDI3ZWE2ZmIxM2E1YTBiYTJjZjY5MDVlYWY5Njg5ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/NKEt9elQ5cR68/giphy.gif" width="100%">
   
   ```bash
   $ whoami
@@ -45,11 +42,11 @@
   pranjal-baishya@github
   -----------------
   💻 Full-Stack Developer
-  🔭 Working on: [Current Project Name]
-  🌱 Learning: [Technologies you're learning]
-  🚀 Passionate about: Clean Code, DevOps, Cloud Architecture
-  🎓 Background: Computer Science, AI, Cybersecurity
-  ⚡ Fun fact: [Your interesting fact]
+  🔭 Working on: Personal website
+  🌱 Learning: System design and kubernetes
+  🚀 Passionate about: Clean Code, Good UI, Scalable Architecture
+  🎓 Background: Computer Science, AI, Cross platlorm app development
+  ⚡ Fun fact: Love to solve puzzles
   ```
 </div>
 
@@ -77,22 +74,13 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
 </p>
 
 <!-- Frontend Section -->
 <h3 align="center">Frontend Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -108,12 +96,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
   <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
 </p>
 
@@ -141,7 +123,6 @@
   <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
   <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible">
 </p>
 
 <!-- Tools & Utilities Section -->
@@ -163,13 +144,8 @@
 <h3 align="center">Specialized Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
-  <img src="https://img.shields.io/badge/WebAssembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
 </p>
 
 <!-- Animated snake contribution graph - upgraded -->
@@ -189,17 +165,18 @@
 <!-- Featured projects with thumbnail images -->
 <h2 align="center">🚀 Featured Projects 🚀</h2>
 <div align="center">
-  <a href="https://github.com/pranjal-baishya/project-1">
+  <a href="https://github.com/pranjal-baishya/sudoku">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-1&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
   </a>
-  <a href="https://github.com/pranjal-baishya/project-2">
+  <a href="https://github.com/pranjal-baishya/3d-portfolio">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
   </a>
-</div>
-
-<!-- Impressive footer with 3D metrics -->
-<div align="center">
-  <img src="https://metrics.lecoq.io/pranjal-baishya?template=terminal&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&config.timezone=America%2FNew_York" width="100%">
+   <a href="https://github.com/pranjal-baishya/Collaborative-Editor">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
+  </a>
+   <a href="https://github.com/pranjal-baishya/fullstack-chat-app">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
+  </a>
 </div>
 
 <!-- Cool code wave animation -->

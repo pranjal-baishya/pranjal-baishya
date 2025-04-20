@@ -164,20 +164,35 @@
 
 <!-- Featured projects with thumbnail images -->
 <h2 align="center">🚀 Featured Projects 🚀</h2>
-<div align="center">
-  <a href="https://github.com/pranjal-baishya/sudoku">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-1&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
-  </a>
-  <a href="https://github.com/pranjal-baishya/3d-portfolio">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
-  </a>
-   <a href="https://github.com/pranjal-baishya/Collaborative-Editor">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
-  </a>
-   <a href="https://github.com/pranjal-baishya/fullstack-chat-app">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=pranjal-baishya&repo=project-2&theme=tokyonight&hide_border=true&show_icons=true&show_description=true&show_owner=true">
-  </a>
-</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/pranjal-baishya/sudoku">
+        <img width="300" height="300" src="https://raw.githubusercontent.com/pranjal-baishya/portfolio/main/src/images/sudokuWeb.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pranjal-baishya/portfolio">
+        <img width="300" height="300" src="https://raw.githubusercontent.com/pranjal-baishya/portfolio/main/src/images/portfolioImage.png" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://play.google.com/store/apps/details?id=com.pranjal.mathnumberpuzzles">
+        <img width="300" height="300" src="https://raw.githubusercontent.com/pranjal-baishya/portfolio/main/src/images/mathPuzzleGame.png" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/pranjal-baishya/fullstack-chat-app">
+        <img width="300" height="300" src="https://raw.githubusercontent.com/pranjal-baishya/portfolio/main/src/images/chatAppImage.png" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 <!-- Cool code wave animation -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:141321,100:4D71E5" />
